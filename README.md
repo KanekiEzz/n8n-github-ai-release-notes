@@ -4,6 +4,10 @@ An automated n8n workflow that generates AI-powered release notes from GitHub co
 
 This repository is sanitized for sharing. The workflow uses placeholder values for credentials, repository owner/repo, and Discord webhook URL.
 
+## Preview
+
+![Workflow Preview](images/demo.gif)
+
 ## Features
 
 - GitHub Push Trigger
